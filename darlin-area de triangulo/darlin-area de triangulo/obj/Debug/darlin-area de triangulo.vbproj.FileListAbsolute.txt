@@ -1,0 +1,9 @@
+c:\users\estudiante\documents\visual studio 2012\Projects\darlin-area de triangulo\darlin-area de triangulo\bin\Debug\darlin-area de triangulo.exe.config
+c:\users\estudiante\documents\visual studio 2012\Projects\darlin-area de triangulo\darlin-area de triangulo\bin\Debug\darlin-area de triangulo.exe
+c:\users\estudiante\documents\visual studio 2012\Projects\darlin-area de triangulo\darlin-area de triangulo\bin\Debug\darlin-area de triangulo.pdb
+c:\users\estudiante\documents\visual studio 2012\Projects\darlin-area de triangulo\darlin-area de triangulo\bin\Debug\darlin-area de triangulo.xml
+c:\users\estudiante\documents\visual studio 2012\Projects\darlin-area de triangulo\darlin-area de triangulo\obj\Debug\darlin_area_de_triangulo.Resources.resources
+c:\users\estudiante\documents\visual studio 2012\Projects\darlin-area de triangulo\darlin-area de triangulo\obj\Debug\darlin-area de triangulo.vbproj.GenerateResource.Cache
+c:\users\estudiante\documents\visual studio 2012\Projects\darlin-area de triangulo\darlin-area de triangulo\obj\Debug\darlin-area de triangulo.exe
+c:\users\estudiante\documents\visual studio 2012\Projects\darlin-area de triangulo\darlin-area de triangulo\obj\Debug\darlin-area de triangulo.xml
+c:\users\estudiante\documents\visual studio 2012\Projects\darlin-area de triangulo\darlin-area de triangulo\obj\Debug\darlin-area de triangulo.pdb
